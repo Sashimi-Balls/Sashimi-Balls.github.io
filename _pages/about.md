@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <style type="text/css">
-    h1 {text-align: center}
+    h1 {text-align: left}
 	h2 {text-align: left}
 </style>
 
@@ -20,7 +20,7 @@ redirect_from:
 
 	.content-container {
       display: flex;
-      align-items: center;
+      align-items: left;
       gap: 10px; /* 设置元素之间的间距 */
       flex-wrap: wrap; /* 如果屏幕过窄，元素会自动换行 */
     }
@@ -35,7 +35,7 @@ redirect_from:
       visibility: hidden;
       background-color: #333;
       color: #fff;
-      text-align: center;
+      text-align: left;
       border-radius: 5px;
       padding: 5px;
       position: absolute;
@@ -176,7 +176,7 @@ On the way......
 
 
 # 🎓 Education
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: left;">
     <div style="flex: 1">
         <img src="../images/UESTC.png" alt="UESTC_banner" style="width: 70%;">
     </div>
