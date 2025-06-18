@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 <style type="text/css">
-    h1 {text-align: left}
-	h2 {text-align: left}
+    h2 {text-align: left}
+	h3 {text-align: left}
 </style>
 
 <style type="text/css">
@@ -94,21 +94,21 @@ I am Yushen Wang, a third-year undergraduate student majoring in communication e
 <b><a href="/files/CV_YushenWang.pdf" ><font color="#000000">Download Full CV</font></a></b>
 
 
-<h1 id="research-interests">🔬 Research Interests</h1>
+<h2 id="research-interests">🔬 Research Interests</h2>
 
 - 📡 Wireless Communications: e.g., Integrated Sensing and Communications (ISAC)  
 - 🤖 Deep Learning: e.g., computer vision for image processing  
 - 🧠 AI for X: e.g., AI-empowered wireless communications  
 
 
-<h1 id="publications">📚 Publications</h1>
+<h2 id="publications">📚 Publications</h2>
 
 List selected publications here. <a href="/publications/">[See more details]</a>
 
-## Journals
+### Journals
 On the way......
 
-## Conferences
+### Conferences
 <ol class="publications">
 {% assign sorted_pubs = site.publications | where: "type", "Conference" | sort: 'date' | reverse %}
 {% for pub in sorted_pubs %}
@@ -152,7 +152,7 @@ On the way......
 </ol>
 
 
-<h1 id="honors">🎉 Honors</h1>
+<h2 id="honors">🎉 Honors</h2>
 
 - <b><font color="#000000">[2023.12]</font></b> Corporate Scholarship, Luzhou Laojiao
 - <b><font color="#000000">[2023.12]</font></b> Outstanding Student Scholarship, UESTC
@@ -160,17 +160,17 @@ On the way......
 - <b><font color="#000000">[2024.12]</font></b> Outstanding Student Scholarship, UESTC
 
 
-<h1 id="awards">🏆 Awards</h1>
+<h2 id="awards">🏆 Awards</h2>
 - <b><font color="#000000">[2024.02]</font></b> Honorable Mention, Mathematical Contest in Modeling
 - <b><font color="#000000">[2024.05]</font></b> National Third Prize, National English Competition for College Students
 
 
-<h1 id="services">✍️ Services</h1>
+<h2 id="services">✍️ Services</h2>
 
 - **Peer Reviewer**, IEEE ICC Workshop'25, Montreal, Canada.
 
 
-<h1 id="education">🎓 Education</h1>
+<h2 id="education">🎓 Education</h2>
 <div style="display: flex; align-items: left;">
     <div style="flex: 1">
         <img src="../images/UESTC.png" alt="UESTC_banner" style="width: 70%;">
