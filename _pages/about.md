@@ -155,8 +155,9 @@ On the way......
 <h1 id="honors">🎉 Honors</h1>
 
 - <b><font color="#000000">[2023.12]</font></b> Corporate Scholarship, Luzhou Laojiao
+- <b><font color="#000000">[2023.12]</font></b> Outstanding Student Scholarship, UESTC
 - <b><font color="#000000">[2024.12]</font></b> <font color="#FF0000">National Scholarship</font> for Undergraduates, Chinese Ministry of Education
-- <b><font color="#000000">[2023.12, 2024.12]</font></b> Outstanding Student Scholarship, UESTC
+- <b><font color="#000000">[2024.12]</font></b> Outstanding Student Scholarship, UESTC
 
 
 <h1 id="awards">🏆 Awards</h1>
