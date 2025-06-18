@@ -77,7 +77,7 @@ function refreshPage() {
 
 <div class="content-container" style="font-size:0.8em;">
 <!-- <img src="https://img.shields.io/github/actions/workflow/status/Sashimi-Balls/Sashimi-Balls.github.io/google_citation.yml?branch=main&logo=github" height="50px"> -->
-<!-- <img src="https://img.shields.io/github/last-commit/Sashimi-Balls/Sashimi-Balls.github.io?logo=github" height="50px"> -->
+<img src="https://img.shields.io/github/last-commit/Sashimi-Balls/Sashimi-Balls.github.io?logo=github" height="50px">
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2FSashimi-Balls.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=googleanalytics.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" height="50px"/> -->
 <div class="button-container">
       <button class="refresh-btn" onclick="refreshPage()">Refresh</button>
@@ -155,7 +155,7 @@ On the way......
 <h1 id="honors">🎉 Honors</h1>
 
 - <b><font color="#000000">[2023.12]</font></b> Corporate Scholarship, Luzhou Laojiao
-- <b><font color="#000000">[2024.12]</font></b> <font color="#000000">National Scholarship</font> for Undergraduates, Chinese Ministry of Education
+- <b><font color="#000000">[2024.12]</font></b> <font color="#FF0000">National Scholarship</font> for Undergraduates, Chinese Ministry of Education
 - <b><font color="#000000">[2023.12, 2024.12]</font></b> Outstanding Student Scholarship, UESTC
 
 
