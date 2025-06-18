@@ -1,25 +1,13 @@
-_site
-_archive
-node_modules
-.vscode
-*.log
-*.lock
-*.sh
-.DS_Store
-.jekyll-cache
-*/.DS_Store
-*/*/.DS_Store
-.jekyll-metadata
-.sass-cache
-/_disabled
-/_keynotes
-ads.txt
-/others
-_drafts
-Dockerfile
-nohup.out
-./_portfolio/denver24.md
-images/album/denver/
-./google_scholar_crawler/temp
-google_scholar_crawler/test.ipynb
+# Ignore the contents of the _site directory and other cache directories
+_site/
+.sass-cache/
 
+# Ignore the directory for local files during development
+local/
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+
+# Ingore files created by npm
+node_modules
+package-lock.json
