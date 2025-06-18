@@ -11,9 +11,6 @@ main:
   - title: "Research Interests"
     url: /#research interests
 
-  - title: "Education"
-    url: /#education
-
   - title: "Publications"
     url: /#publications
 
@@ -22,6 +19,9 @@ main:
 
   - title: "Awards"
     url: /#awards
+
+  - title: "Education"
+    url: /#education
 
   # - title: "Talks"
   #   url: /talks/    
@@ -36,7 +36,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: https://sashimi-balls.github.io/files/CV_YushenWang.pdf
+    url: /files/CV_YushenWang.pdf
     
   # - title: "Guide"
   #   url: /markdown/
