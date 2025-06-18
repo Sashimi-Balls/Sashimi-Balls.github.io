@@ -103,7 +103,7 @@ I am Yushen Wang, a third-year undergraduate student majoring in communication e
 
 <h1 id="publications">📚 Publications</h1>
 
-List selected publications here. <a href="/publications/">[See more details here]</a>
+List selected publications here. <a href="/publications/">[See more details]</a>
 
 ## Journals
 On the way......
