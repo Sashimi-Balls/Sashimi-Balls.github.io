@@ -15,7 +15,7 @@ try:
     pg.FreeProxies()
     scholarly.use_proxy(pg)
 
-    GOOGLE_SCHOLAR_ID = 'x47f3O4AAAAJ'
+    GOOGLE_SCHOLAR_ID = 'FZvs20wAAAAJ'
     author: dict = scholarly.search_author_id(GOOGLE_SCHOLAR_ID)
     scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
     name = author['name']
