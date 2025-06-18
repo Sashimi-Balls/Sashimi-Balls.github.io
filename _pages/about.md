@@ -93,128 +93,28 @@ function refreshPage() {
 </div>
 <br>
 
-Hello :-)
+Hi! Thanks for visiting my homepage!  
 
-I received my B.S. and M.S. degree in Electrical Engineering from Beijing Institute of Technology, Beijing, China, in 2020 and 2023, respectively, under the supervision of <a href="https://gaozhen16.github.io" target="_blank">Prof. Zhen GAO</a>. I am currently a Ph.D. candidate at the City University of Hong Kong, Hong Kong SAR, under the supervision of <a href="https://www.ee.cityu.edu.hk/~alexyu/" target="_blank">Prof. Xianghao YU</a>. My research interest includes signal processing and wireless communication. I have published some papers at IEEE ComSoc conferences and journals with total google scholar citations ~600.
+I am Yushen Wang, a third-year undergraduate student majoring in communication engineering at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC. Currently I am looking for graduate programs (Ph.D. > Master) of Fall 2026 in broad areas related to wireless communications and artificial intelligence.  
 
-<b><a href="/files/CV_Shicong.pdf" ><font color="#FF0000">Download Full CV</font></a></b>
-
-# News
-
-- <b><font color="#000000">[2025.05]</font></b> An errata for JSAC'25 was released. See <a href="/posts/JSAC25ERRATA/">here</a> for more info.
-- <b><font color="#FF0000">[2024.12]</font></b> Nominated as 2024 <a href="https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation" target="_blank">Exemplary Reviewers</a> of IEEE Communications Letters
-- <b><font color="#000000">[2024.11]</font></b> Albums and Posts now support multiple languages :-P
-- <b><font color="#FF0000">[2024.11]</font></b> One coauthored <a href="https://www.nature.com/articles/s41467-024-54168-3" target="_blank">article</a> was accepted by <b>Nature Communications</b>
-- <b><font color="#FF0000">[2024.11]</font></b> One <a href="https://arxiv.org/abs/2403.11809" target="_blank">journal paper</a> was accepted by IEEE JSAC
-- <b><font color="#FF0000">[2024.08]</font></b> I was awarded the CityU Academic Excellence and QE Award
-- <b><font color="#FF0000">[2024.07]</font></b> One <a href="https://arxiv.org/abs/2405.01000" target="_blank">conference paper</a> was accepted by IEEE Globecom'24
-
-<details><summary>More News</summary>
-<ul>
-<li><b>[2023.10]</b> One <a href="https://arxiv.org/abs/2310.18180" target="_blank">conference paper</a> was accepted by IEEE ICC'23</li>
-</ul>
-</details>
+<b><a href="/files/CV_YushenWang.pdf" ><font color="#FF0000">Download Full CV</font></a></b>
 
 
-# Education
+# 🔬 Research Interests
 
-- <div class="someClass"><div>Ph.D. in Electronic Engineering, City University of Hong Kong</div><div>2023-2027(est.)</div></div>
-- <div class="someClass"><div>M.S. in Electronic Engineering, Beijing Institute of Technology</div><div>2020-2023</div></div>
-- <div class="someClass"><div>B.S. in Electrical Engineering, Beijing Institute of Technology</div><div>2016-2020</div></div>
+- 📡 Wireless Communications: e.g., Integrated Sensing and Communications (ISAC)  
+- 🤖 Deep Learning: e.g., computer vision for image processing  
+- 🧠 AI for X: e.g., AI-empowered wireless communications  
 
 
-# Publications
+# 📚 Publications
 
 Selected publications. <a href="/publications/">More Details</a>
 
 ## Journals
-
-<ol class="publications">
-{% assign sorted_pubs = site.publications | where: "type", "Journal" | sort: 'date' | reverse %}
-{% for pub in sorted_pubs %}
-	{% if pub.type == "Journal" %}
-	<p style="text-indent: -1.5rem;margin-left: 0rem;">
-	<span class="publications-number">[{{ sorted_pubs.size | minus: forloop.index | plus: 1  }}]</span>
-	{% assign authors = pub.authors | split: ", " %}
-	{% for author in authors %}
-		{% if author == "S. Liu" %}
-			<strong>{{ author }}</strong>{% if forloop.last == false %}, {% endif %}
-		{% elsif author == "X. Yu" %}
-			<i>{{ author }}*</i>{% if forloop.last == false %}, {% endif %}
-		{% else %}
-		  	{{ author }}{% if forloop.last == false %}, {% endif %}
-		{% endif %}
-	{% endfor %}
-	, "{{ pub.title }}", <i>{{ pub.venue }}</i>, vol. {{ pub.vol }}, no. {{ pub.issue }}, pp. {{ pub.pp }}, {{ pub.date | date: "%b. %Y" }}.
-	{% if pub.arxiv %}
-		[<a href="{{ pub.arxiv }}" target="_blank">arXiv</a>]
-	{% endif %}
-	{% if pub.slidesurl %}
-		[<a href="{{ pub.slidesurl }}" target="_blank">Slides</a>]
-	{% endif %}
-	{% if pub.paperurl %}
-		[<a href="{{ pub.paperurl }}" target="_blank">Paper</a>]
-	{% endif %}
-	{% if pub.errata %}
-		[<a href="{{ pub.errata }}" target="_blank">errata</a>]
-	{% endif %}
-	{% if pub.codes %}
-		[<a href="{{ pub.codes }}" target="_blank"><font color="#FF0000">Codes</font></a>]
-	{% endif %}
-	{% if pub.DOI %}
-		<a href="https://doi.org/{{ pub.DOI }}" target="_blank"><img src="https://zenodo.org/badge/DOI/{{ pub.DOI }}.svg" height="60px"></a>
-		<img src="https://api.juleskreuer.eu/citation-badge.php?doi={{ pub.DOI }}" height="60px">
-	{% endif %}
-	<br>
-  	</p>
-	{% endif %}
-{% endfor %}
-</ol>
-
-## Articles
-
-
-<ol class="publications">
-{% assign sorted_pubs = site.publications | where: "type", 'Article' | sort: 'date' | reverse %}
-{% for pub in sorted_pubs %}
-	{% if pub.type == "Article" %}
-	<p style="text-indent: -1.5rem;margin-left: 0rem;">
-	<span class="publications-number">[{{ sorted_pubs.size | minus: forloop.index | plus: 1  }}]</span>
-	{% assign authors = pub.authors | split: ", " %}
-	{% for author in authors %}
-		{% if author == "S. Liu" %}
-			<strong>{{ author }}</strong>{% if forloop.last == false %}, {% endif %}
-		{% elsif author == "X. Yu" %}
-			<i>{{ author }}*</i>{% if forloop.last == false %}, {% endif %}
-		{% else %}
-		  	{{ author }}{% if forloop.last == false %}, {% endif %}
-		{% endif %}
-	{% endfor %}
-	, "{{ pub.title }}", <i>{{ pub.venue }}</i>, vol. {{ pub.vol }}, no. {{ pub.issue }}, pp. {{ pub.pp }}, {{ pub.date | date: "%b. %Y" }}.
-	{% if pub.arxiv %}
-		[<a href="{{ pub.arxiv }}" target="_blank">arXiv</a>]
-	{% endif %}
-	{% if pub.slidesurl %}
-		[<a href="{{ pub.slidesurl }}" target="_blank">Slides</a>]
-	{% endif %}
-	{% if pub.paperurl %}
-		[<a href="{{ pub.paperurl }}" target="_blank">Paper</a>]
-	{% endif %}
-	{% if pub.codes %}
-		[<a href="{{ pub.codes }}" target="_blank"><font color="#FF0000">Codes</font></a>]
-	{% endif %}
-	{% if pub.DOI %}
-		<a href="https://doi.org/{{ pub.DOI }}" target="_blank"><img src="https://zenodo.org/badge/DOI/{{ pub.DOI }}.svg" height="60px"></a>
-		<img src="https://api.juleskreuer.eu/citation-badge.php?doi={{ pub.DOI }}" height="60px">
-	{% endif %}
-	<br>
-  	</p>
-	{% endif %}
-{% endfor %}
-</ol>
+On the way......
 
 ## Conferences
-
 <ol class="publications">
 {% assign sorted_pubs = site.publications | where: "type", "Conference" | sort: 'date' | reverse %}
 {% for pub in sorted_pubs %}
@@ -223,9 +123,9 @@ Selected publications. <a href="/publications/">More Details</a>
     <span class="publications-number">[{{ sorted_pubs.size | minus: forloop.index | plus: 1  }}]</span>
     {% assign authors = pub.authors | split: ", " %}
     {% for author in authors %}
-        {% if author == "S. Liu" %}
+        {% if author == "Y. Wang" %}
         	<strong>{{ author }}</strong>{% if forloop.last == false %}, {% endif %}
-		{% elsif author == "X. Yu" %}
+		{% elsif author == "W. Mei" %}
 			<i>{{ author }}*</i>{% if forloop.last == false %}, {% endif %}
         {% else %}
           	{{ author }}{% if forloop.last == false %}, {% endif %}
@@ -257,59 +157,33 @@ Selected publications. <a href="/publications/">More Details</a>
 {% endfor %}
 </ol>
 
-# Services
+# ✍️ Services
+
+- **Peer Reviewer**, IEEE ICC Workshop'25, Montreal, Canada.
 
 
-## Academics
+# 🎉 Honors
 
-- **Session Chair**, <i>Antenna and Smart Antenna</i>, IEEE Globecom'24, Cape Town, South Africa.
-- **Session Chair**, <i>Mobile and Wireless Networks</i>, IEEE/CIC ICCC'23, Dalian, China.
-- **Peer Reviewer**, IEEE ComSoc Journals and Conferences.
-
-## Teaching
-
-- **Teaching Assistant**
-	- <div class="someClass"><div>EE3008: Principles of Communications, City University of Hong Kong</div><div>2024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fall</div></div>
-	- <div class="someClass"><div>EE3008: Principles of Communications, City University of Hong Kong</div><div>2024 Spring</div></div>
-	- <div class="someClass"><div>EE3008: Principles of Communications, City University of Hong Kong</div><div>2023&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fall</div></div>
-	- <div class="someClass"><div>Innovation and Entrepreneurship, Beijing Institute of Technology</div><div>2023 Spring</div></div>
-	- <div class="someClass"><div>Frontiers of Communication Technology, Beijing Institute of Technology</div><div>2022 Spring</div></div>
-
-# Awards and Honors
-
-- <div class="someClass"><div>Exemplary Reviewers of IEEE Communications Letters</div><div>2024</div></div>
-- <div class="someClass"><div>CityU Academic Excellence and QE Award</div><div>2024</div></div>
-- <div class="someClass"><div>Entrance Fellowship of CityU Graduate School</div><div>2023</div></div>
-- <div class="someClass"><div>Beijing Municipal Outstanding Master Graduate</div><div>2023</div></div>
-- <div class="someClass"><div>Hong Kong Ph.D. Fellowship Scheme (HKPFS) Awardee</div><div>2023</div></div>
-- <div class="someClass"><div>2021 Outstanding Student</div><div>2021</div></div>
-- <div class="someClass"><div>2021 National Scholarship (~2.5%) for Graduate Students</div><div>2021</div></div>
-- <div class="someClass"><div>2020 National Scholarship (~2.5%) for Graduate Students</div><div>2020</div></div>
-- <div class="someClass"><div>Meritorious Winner (~7%) in Mathematical Contest in Modeling (MCM)</div><div>2019</div></div>
-- <div class="someClass"><div>1st place in National Undergraduate Algorithmic Game Theory Championship</div><div>2018</div></div>
+- <b><font color="#000000">[2023.12]</font></b> Corporate Scholarship, Luzhou Laojiao
+- <b><font color="#000000">[2024.12]</font></b> **National Scholarship** for Undergraduates, Chinese Ministry of Education
+- <b><font color="#000000">[2023.12, 2024.12]</font></b> Outstanding Student Scholarship, UESTC
 
 
+# 🏆 Awards
+- <b><font color="#000000">[2024.05]</font></b> National Third Prize, National English Competition for College Students
+- <b><font color="#000000">[2024.02]</font></b> Honorable Mention, Mathematical Contest in Modeling
 
-# Stats
-<br>
-<!-- <hr> -->
-<style>
-    .center {
-        text-align: center;
-		width: 300px;
-		margin: 0 auto;
-    }
-    hr {
-        width: 200px; /* Adjust width as needed */
-        margin: 0 auto; /* Center the hr */
-    }
-</style>
 
-<div class='center'>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=dmVatQT8g0590arpll0thgjnbjngqp0QqLSiLkH5KuU'></script>
+# 🎓 Education
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1">
+        <img src="../images/UESTC.png" alt="UESTC_banner" style="width: 70%;">
+    </div>
+    <div style="flex: 2;">
+        <p>University of Electronic Science and Technology of China</p>
+        <ul>
+            <li>B.Eng. in Communication Engineering, Sept. 2022 - Jun. 2026 (expected)</li>
+            <li>Supervisor: <a href="https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm">Prof. Weidong Mei</a></li>
+        </ul>
+    </div>
 </div>
-
-<div class='center'>
-<a href="https://info.flagcounter.com/4GAt"><img src="https://s01.flagcounter.com/count2/4GAt/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_4/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-</div>
-
