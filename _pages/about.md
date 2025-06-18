@@ -103,7 +103,7 @@ I am Yushen Wang, a third-year undergraduate student majoring in communication e
 
 <h1 id="publications">📚 Publications</h1>
 
-Selected publications. <a href="/publications/">More Details</a>
+List selected publications here. <a href="/publications/">[See more details here]</a>
 
 ## Journals
 On the way......
@@ -154,14 +154,14 @@ On the way......
 
 <h1 id="honors">🎉 Honors</h1>
 
-- <b><font color="#000000">[2023.12]</font></b> Corporate Scholarship, Luzhou Laojiao
-- <b><font color="#000000">[2024.12]</font></b> **National Scholarship** for Undergraduates, Chinese Ministry of Education
-- <b><font color="#000000">[2023.12, 2024.12]</font></b> Outstanding Student Scholarship, UESTC
+- <font color="#000000">[2023.12]</font> Corporate Scholarship, Luzhou Laojiao
+- <font color="#000000">[2024.12]</font> **National Scholarship** for Undergraduates, Chinese Ministry of Education
+- <font color="#000000">[2023.12, 2024.12]</font> Outstanding Student Scholarship, UESTC
 
 
 <h1 id="awards">🏆 Awards</h1>
-- <b><font color="#000000">[2024.05]</font></b> National Third Prize, National English Competition for College Students
-- <b><font color="#000000">[2024.02]</font></b> Honorable Mention, Mathematical Contest in Modeling
+- <font color="#000000">[2024.05]</font> National Third Prize, National English Competition for College Students
+- <font color="#000000">[2024.02]</font> Honorable Mention, Mathematical Contest in Modeling
 
 
 <h1 id="services">✍️ Services</h1>
