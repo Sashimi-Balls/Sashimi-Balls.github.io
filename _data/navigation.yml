@@ -9,7 +9,7 @@ main:
   #   url: /
 
   - title: "Research Interests"
-    url: /#research interests
+    url: /# Research Interests
 
   - title: "Publications"
     url: /#publications
