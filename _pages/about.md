@@ -94,14 +94,14 @@ I am Yushen Wang, a third-year undergraduate student majoring in communication e
 <b><a href="/files/CV_YushenWang.pdf" ><font color="#000000">Download Full CV</font></a></b>
 
 
-<h1 id="research-interests">🔬 Research Interests
+<h1 id="research-interests">🔬 Research Interests</h1>
 
 - 📡 Wireless Communications: e.g., Integrated Sensing and Communications (ISAC)  
 - 🤖 Deep Learning: e.g., computer vision for image processing  
 - 🧠 AI for X: e.g., AI-empowered wireless communications  
 
 
-<h1 id="publications">📚 Publications
+<h1 id="publications">📚 Publications</h1>
 
 Selected publications. <a href="/publications/">More Details</a>
 
@@ -152,24 +152,24 @@ On the way......
 </ol>
 
 
-<h1 id="honors">🎉 Honors
+<h1 id="honors">🎉 Honors</h1>
 
 - <b><font color="#000000">[2023.12]</font></b> Corporate Scholarship, Luzhou Laojiao
 - <b><font color="#000000">[2024.12]</font></b> **National Scholarship** for Undergraduates, Chinese Ministry of Education
 - <b><font color="#000000">[2023.12, 2024.12]</font></b> Outstanding Student Scholarship, UESTC
 
 
-<h1 id="awards">🏆 Awards
+<h1 id="awards">🏆 Awards</h1>
 - <b><font color="#000000">[2024.05]</font></b> National Third Prize, National English Competition for College Students
 - <b><font color="#000000">[2024.02]</font></b> Honorable Mention, Mathematical Contest in Modeling
 
 
-<h1 id="services">✍️ Services
+<h1 id="services">✍️ Services</h1>
 
 - **Peer Reviewer**, IEEE ICC Workshop'25, Montreal, Canada.
 
 
-<h1 id="education">🎓 Education
+<h1 id="education">🎓 Education</h1>
 <div style="display: flex; align-items: left;">
     <div style="flex: 1">
         <img src="../images/UESTC.png" alt="UESTC_banner" style="width: 70%;">
