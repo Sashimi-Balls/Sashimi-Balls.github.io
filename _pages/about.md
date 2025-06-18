@@ -97,7 +97,7 @@ Hi! Thanks for visiting my homepage!
 
 I am Yushen Wang, a third-year undergraduate student majoring in communication engineering at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/) under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from [National Key Laboratory of Wireless Communications](https://www.ncl.uestc.edu.cn/), UESTC. Currently I am looking for graduate programs (Ph.D. > Master) of Fall 2026 in broad areas related to wireless communications and artificial intelligence.  
 
-<b><a href="/files/CV_YushenWang.pdf" ><font color="#FF0000">Download Full CV</font></a></b>
+<b><a href="/files/CV_YushenWang.pdf" ><font color="#000000">Download Full CV</font></a></b>
 
 
 # 🔬 Research Interests
@@ -157,10 +157,6 @@ On the way......
 {% endfor %}
 </ol>
 
-# ✍️ Services
-
-- **Peer Reviewer**, IEEE ICC Workshop'25, Montreal, Canada.
-
 
 # 🎉 Honors
 
@@ -172,6 +168,11 @@ On the way......
 # 🏆 Awards
 - <b><font color="#000000">[2024.05]</font></b> National Third Prize, National English Competition for College Students
 - <b><font color="#000000">[2024.02]</font></b> Honorable Mention, Mathematical Contest in Modeling
+
+
+# ✍️ Services
+
+- **Peer Reviewer**, IEEE ICC Workshop'25, Montreal, Canada.
 
 
 # 🎓 Education
@@ -187,3 +188,4 @@ On the way......
         </ul>
     </div>
 </div>
+
