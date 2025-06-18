@@ -20,11 +20,11 @@ main:
   - title: "Awards"
     url: /#awards
 
-  - title: "Education"
-    url: /#education
-
   - title: "Services"
     url: /#services
+    
+  - title: "Education"
+    url: /#education
 
   # - title: "Talks"
   #   url: /talks/    
