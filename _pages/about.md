@@ -154,14 +154,14 @@ On the way......
 
 <h1 id="honors">🎉 Honors</h1>
 
-- <font color="#000000">[2023.12]</font> Corporate Scholarship, Luzhou Laojiao
-- <font color="#000000">[2024.12]</font> **National Scholarship** for Undergraduates, Chinese Ministry of Education
-- <font color="#000000">[2023.12, 2024.12]</font> Outstanding Student Scholarship, UESTC
+- <font color="#000000">[2023.12]</font>Corporate Scholarship, Luzhou Laojiao
+- <font color="#000000">[2024.12]</font>**National Scholarship** for Undergraduates, Chinese Ministry of Education
+- <font color="#000000">[2023.12, 2024.12]</font>Outstanding Student Scholarship, UESTC
 
 
 <h1 id="awards">🏆 Awards</h1>
-- <font color="#000000">[2024.05]</font> National Third Prize, National English Competition for College Students
-- <font color="#000000">[2024.02]</font> Honorable Mention, Mathematical Contest in Modeling
+- <font color="#000000">[2024.05]</font>National Third Prize, National English Competition for College Students
+- <font color="#000000">[2024.02]</font>Honorable Mention, Mathematical Contest in Modeling
 
 
 <h1 id="services">✍️ Services</h1>
