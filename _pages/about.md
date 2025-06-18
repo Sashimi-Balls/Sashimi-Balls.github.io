@@ -82,8 +82,7 @@ function refreshPage() {
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <div class="content-container" style="font-size:0.8em;">
-# <img src="https://img.shields.io/github/actions/workflow/status/Sashimi-Balls/Sashimi-Balls.github.io/google_citation.yml?branch=main&logo=github" height="50px">
-<img src="https://img.shields.io/google_citation.yml?branch=main&logo=github" height="50px">
+<img src="https://img.shields.io/github/actions/workflow/status/Sashimi-Balls/Sashimi-Balls.github.io/google_citation.yml?branch=main&logo=github" height="50px">
 <img src="https://img.shields.io/github/last-commit/Sashimi-Balls/Sashimi-Balls.github.io?logo=github" height="50px">
 <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fscliubit.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=googleanalytics.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" height="50px"/> -->
 <div class="button-container">
