@@ -161,8 +161,8 @@ On the way......
 
 
 <h1 id="awards">🏆 Awards</h1>
-- <b><font color="#000000">[2024.05]</font></b> National Third Prize, National English Competition for College Students
 - <b><font color="#000000">[2024.02]</font></b> Honorable Mention, Mathematical Contest in Modeling
+- <b><font color="#000000">[2024.05]</font></b> National Third Prize, National English Competition for College Students
 
 
 <h1 id="services">✍️ Services</h1>
