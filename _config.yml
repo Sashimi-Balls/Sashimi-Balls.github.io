@@ -21,7 +21,7 @@ repository               : "Sashimi-Balls/Sashimi-Balls.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.jpg"
+  avatar           : "Photo.jpg"
   name             : "Yushen Wang"
   pronouns         : # example: "he/him"  
   bio              : "Third-year Undergraduate at UESTC"
