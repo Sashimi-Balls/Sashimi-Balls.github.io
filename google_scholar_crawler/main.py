@@ -28,3 +28,4 @@ with open("results/gs_data_shieldsio.json", "w", encoding="utf-8") as f:
     json.dump(shield_data, f, indent=2, ensure_ascii=False)
 
 print("✅ SerpAPI Done")
+
