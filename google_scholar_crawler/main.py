@@ -1,7 +1,7 @@
 import requests
 import json
 
-SERP_API_KEY = '你的API KEY'
+SERP_API_KEY = 'your API KEY'
 GOOGLE_SCHOLAR_ID = 'FZvs20wAAAAJ'
 
 params = {
