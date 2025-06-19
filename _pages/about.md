@@ -103,12 +103,12 @@ I am Yushen Wang, a third-year undergraduate student majoring in communication e
 
 <h2 id="publications">📚 Publications</h2>
 
-List selected publications here. <a href="/publications/">[See more details]</a>
+Only list selected publications. <a href="/publications/">[Click here to see more details]</a>
 
-## Journals
+### Journals
 On the way......
 
-## Conferences
+### Conferences
 <ol class="publications">
 {% assign sorted_pubs = site.publications | where: "type", "Conference" | sort: 'date' | reverse %}
 {% for pub in sorted_pubs %}
