@@ -13,7 +13,7 @@ params = {
 response = requests.get("https://serpapi.com/search", params=params)
 data = response.json()
 
-# 保存结果
+# save results
 with open("results/gs_data.json", "w", encoding="utf-8") as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 
