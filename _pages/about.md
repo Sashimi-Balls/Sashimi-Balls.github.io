@@ -89,7 +89,7 @@ function refreshPage() {
 
 Hi! Thanks for visiting my homepage!  
 
-I am Yushen Wang, a third-year undergraduate student majoring in *Communication Engineering* at **University of Electronic Science and Technology of China (UESTC)** under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from **National Key Laboratory of Wireless Communications, UESTC**. Currently I am looking for graduate programs (Ph.D. > Master) of Fall 2026 in broad areas related to wireless communications and their interdisciplinary applications, e.g., AI-enpowered wireless communications.  
+I am Yushen Wang, a third-year undergraduate student majoring in *Communication Engineering* at **University of Electronic Science and Technology of China (UESTC)** under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from **National Key Laboratory of Wireless Communications, UESTC**. Currently I am looking for graduate programs (Ph.D. > Master) of Fall 2026 in broad areas related to wireless communications and their interdisciplinary applications, e.g., AI-empowered wireless communications.  
 
 <b><a href="/files/CV_YushenWang.pdf" ><font color="#000000">Download Full CV</font></a></b>
 
