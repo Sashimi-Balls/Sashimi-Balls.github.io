@@ -96,7 +96,14 @@ I am Yushen Wang, a third-year undergraduate student majoring in *Communication 
 
 <h2 id="research-interests">🔬 Research Interests</h2>
 
-- 📡 Wireless Communications: e.g., Integrated Sensing and Communications (ISAC)  
+- 📡 Wireless Communications: e.g., Integrated Sensing and Communications (ISAC)
+
+<div style="display: flex; align-items: left;">
+    <!-- 这是一个弹性布局容器，内容左对齐 -->
+    <img src="../images/ISAC_scenario.png" alt="UESTC_banner" style="width: 70%;">
+    <!-- 图片，宽度为父元素的70% -->
+</div>   
+
 - 🤖 AI for X: e.g., AI-empowered wireless communications  
 
 <h2 id="publications">📚 Publications</h2>
