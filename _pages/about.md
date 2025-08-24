@@ -106,12 +106,59 @@ I am Yushen Wang, a third-year undergraduate student majoring in *Communication 
 
 - 🤖 AI for X: e.g., AI-empowered wireless communications  
 
+<div style="display: flex; align-items: left;">
+    <!-- 这是一个弹性布局容器，内容左对齐 -->
+    <img src="../images/AI_wireless.png" alt="UESTC_banner" style="width: 70%;">
+    <!-- 图片，宽度为父元素的70% -->
+</div>   
+
 <h2 id="publications">📚 Publications</h2>
 
 Only list selected publications. <a href="/publications/">[Click here to see more details]</a>
 
 ### Journals
-On the way......
+
+<ol class="publications">
+{% assign sorted_pubs = site.publications | where: "type", "Journal" | sort: 'date' | reverse %}
+{% for pub in sorted_pubs %}
+	{% if pub.type == "Journal" %}
+	<p style="text-indent: -1.5rem;margin-left: 0rem;">
+	<span class="publications-number">[{{ sorted_pubs.size | minus: forloop.index | plus: 1  }}]</span>
+	{% assign authors = pub.authors | split: ", " %}
+	{% for author in authors %}
+		{% if author == "Y. Wang" %}
+			<strong>{{ author }}</strong>{% if forloop.last == false %}, {% endif %}
+		{% elsif author == "W. Mei" %}
+			<i>{{ author }}*</i>{% if forloop.last == false %}, {% endif %}
+		{% else %}
+		  	{{ author }}{% if forloop.last == false %}, {% endif %}
+		{% endif %}
+	{% endfor %}
+	, "{{ pub.title }}", <i>{{ pub.venue }}</i>, vol. {{ pub.vol }}, no. {{ pub.issue }}, pp. {{ pub.pp }}, {{ pub.date | date: "%b. %Y" }}.
+	{% if pub.arxiv %}
+		[<a href="{{ pub.arxiv }}" target="_blank">arXiv</a>]
+	{% endif %}
+	{% if pub.slidesurl %}
+		[<a href="{{ pub.slidesurl }}" target="_blank">Slides</a>]
+	{% endif %}
+	{% if pub.paperurl %}
+		[<a href="{{ pub.paperurl }}" target="_blank">Paper</a>]
+	{% endif %}
+	{% if pub.errata %}
+		[<a href="{{ pub.errata }}" target="_blank">errata</a>]
+	{% endif %}
+	{% if pub.codes %}
+		[<a href="{{ pub.codes }}" target="_blank"><font color="#FF0000">Codes</font></a>]
+	{% endif %}
+	{% if pub.DOI %}
+		<a href="https://doi.org/{{ pub.DOI }}" target="_blank"><img src="https://zenodo.org/badge/DOI/{{ pub.DOI }}.svg" height="60px"></a>
+		<img src="https://api.juleskreuer.eu/citation-badge.php?doi={{ pub.DOI }}" height="60px">
+	{% endif %}
+	<br>
+  	</p>
+	{% endif %}
+{% endfor %}
+</ol>
 
 ### Conferences
 <ol class="publications">
