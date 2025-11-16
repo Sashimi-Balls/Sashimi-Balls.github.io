@@ -105,7 +105,7 @@ I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication
     <!-- 这是一个弹性布局容器，内容左对齐 -->
     <img src="../images/ISAC_scenario.png" alt="UESTC_banner" style="width: 70%;">
     <!-- 图片，宽度为父元素的70% -->
-</div>    -->
+-->
 
 - 📡 AI-empowered wireless communications: e.g., Intelligent resource allocation
 
@@ -113,7 +113,7 @@ I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication
     <!-- 这是一个弹性布局容器，内容左对齐 -->
     <img src="../images/AI_wireless.png" alt="UESTC_banner" style="width: 70%;">
     <!-- 图片，宽度为父元素的70% -->
-</div>    -->
+-->
 
 <h2 id="publications">📚 Publications</h2>
 
