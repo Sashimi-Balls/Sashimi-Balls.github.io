@@ -89,7 +89,7 @@ function refreshPage() {
 
 Hi! Thanks for visiting my homepage!  
 
-I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication Engineering* at **University of Electronic Science and Technology of China (UESTC)** under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from **National Key Laboratory of Wireless Communications, UESTC**. I am interested in broad areas related to AI, signal processing, and their interdisciplinary applications, e.g., LLM, multimodal learning, AI-enhanced image and video processing, AI-empowered wireless communications, etc.    
+I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication Engineering* at **University of Electronic Science and Technology of China (UESTC)** under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from **National Key Laboratory of Wireless Communications, UESTC**. I am interested in broad areas related to AI, signal processing, and their interdisciplinary applications, e.g., LLMs, multimodal learning, AI-enhanced image and video processing, AI-empowered wireless communications, etc.    
 
 <b><a href="/files/CV_YushenWang.pdf" ><font color="#000000">Download Full CV</font></a></b>
 
