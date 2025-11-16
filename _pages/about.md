@@ -89,7 +89,7 @@ function refreshPage() {
 
 Hi! Thanks for visiting my homepage!  
 
-I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication Engineering* at **University of Electronic Science and Technology of China (UESTC)** under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from **National Key Laboratory of Wireless Communications, UESTC**. I am interested in broad areas related to AI, signal processing, wireless communications and their interdisciplinary applications, e.g., LLM, multimodal learning, AI-enhanced image and video processing, AI-empowered wireless communications, etc.    
+I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication Engineering* at **University of Electronic Science and Technology of China (UESTC)** under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from **National Key Laboratory of Wireless Communications, UESTC**. I am interested in broad areas related to AI, signal processing, and their interdisciplinary applications, e.g., LLM, multimodal learning, AI-enhanced image and video processing, AI-empowered wireless communications, etc.    
 
 <b><a href="/files/CV_YushenWang.pdf" ><font color="#000000">Download Full CV</font></a></b>
 
@@ -97,15 +97,15 @@ I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication
 <h2 id="research-interests">🔬 Research Interests</h2>
 
 
-- 🤖 Large Language Models: e.g., how to enhance its generalizability and robustness?
+- 🤖 Large Language Models: e.g., how to enhance their generalizability and robustness?
 
-- 📹 Image processing and video streaming: e.g., efficient and lossless compression, high resolution and minimized delay, ......
+- 📹 Image processing and video streaming: e.g., efficient and lossless video compression
 
 <!-- <div style="display: flex; align-items: left;">
     <img src="../images/ISAC_scenario.png" alt="UESTC_banner" style="width: 70%;">
 -->
 
-- 📡 AI-empowered wireless communications: e.g., Intelligent resource allocation
+- 📡 AI-empowered wireless communications: e.g., intelligent resource allocation
 
 <!-- <div style="display: flex; align-items: left;">
     <img src="../images/AI_wireless.png" alt="UESTC_banner" style="width: 70%;">
