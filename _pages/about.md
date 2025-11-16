@@ -89,28 +89,31 @@ function refreshPage() {
 
 Hi! Thanks for visiting my homepage!  
 
-I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication Engineering* at **University of Electronic Science and Technology of China (UESTC)** under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from **National Key Laboratory of Wireless Communications, UESTC**. I am interested in broad areas related to wireless communications and their interdisciplinary applications, e.g., Integrated Sensing and Communications (ISAC), AI-empowered wireless communications, etc.    
+I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication Engineering* at **University of Electronic Science and Technology of China (UESTC)** under the supervision of [Prof. Weidong Mei](https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm) from **National Key Laboratory of Wireless Communications, UESTC**. I am interested in broad areas related to AI, signal processing, wireless communications and their interdisciplinary applications, e.g., LLM, multimodal learning, AI-enhanced image and video processing, AI-empowered wireless communications, etc.    
 
 <b><a href="/files/CV_YushenWang.pdf" ><font color="#000000">Download Full CV</font></a></b>
 
 
 <h2 id="research-interests">🔬 Research Interests</h2>
 
-- 📡 Wireless Communications: e.g., Integrated Sensing and Communications (ISAC)
 
-<div style="display: flex; align-items: left;">
+- 🤖 Large Language Models: e.g., how to enhance its generalizability and robustness?
+
+- 📹 Image processing and video streaming: e.g., efficient and lossless compression, high resolution and minimized delay, ......
+
+<!-- <div style="display: flex; align-items: left;">
     <!-- 这是一个弹性布局容器，内容左对齐 -->
     <img src="../images/ISAC_scenario.png" alt="UESTC_banner" style="width: 70%;">
     <!-- 图片，宽度为父元素的70% -->
-</div>   
+</div>    -->
 
-- 🤖 AI for X: e.g., AI-empowered wireless communications  
+- 📡 AI-empowered wireless communications: e.g., Intelligent resource allocation
 
-<div style="display: flex; align-items: left;">
+<!-- <div style="display: flex; align-items: left;">
     <!-- 这是一个弹性布局容器，内容左对齐 -->
     <img src="../images/AI_wireless.png" alt="UESTC_banner" style="width: 70%;">
     <!-- 图片，宽度为父元素的70% -->
-</div>   
+</div>    -->
 
 <h2 id="publications">📚 Publications</h2>
 
