@@ -209,6 +209,7 @@ Only list selected publications. <a href="/publications/">[Click here to see mor
 - <b><font color="#000000">[2023.12]</font></b> Outstanding Student Scholarship, UESTC
 - <b><font color="#000000">[2024.12]</font></b> <font color="#FF0000">National Scholarship</font> for Undergraduates, Chinese Ministry of Education
 - <b><font color="#000000">[2024.12]</font></b> Outstanding Student Scholarship, UESTC
+- <b><font color="#000000">[2025.11]</font></b> Outstanding Graduate of Sichuan Province, Sichuan Provincial Department of Education
 
 
 <h2 id="awards">🏆 Awards</h2>
