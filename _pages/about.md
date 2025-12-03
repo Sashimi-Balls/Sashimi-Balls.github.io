@@ -101,15 +101,16 @@ I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication
 
 - 📹 Image processing and video streaming: e.g., efficient and lossless video compression
 
-<!-- <div style="display: flex; align-items: left;">
-    <img src="../images/ISAC_scenario.png" alt="UESTC_banner" style="width: 70%;">
--->
-
 - 📡 AI-empowered wireless communications: e.g., intelligent resource allocation
 
-<!-- <div style="display: flex; align-items: left;">
-    <img src="../images/AI_wireless.png" alt="UESTC_banner" style="width: 70%;">
--->
+<div style="display: flex; align-items: left;">
+<img src="../images/AI_wireless.png" alt="UESTC_banner" style="width: 70%;">
+
+- 🛰️ Integrated Sensing and Communications (ISAC): how to achieve mutual performance gains?
+
+<div style="display: flex; align-items: left;">
+<img src="../images/ISAC_scenario.png" alt="UESTC_banner" style="width: 70%;">
+
 
 <h2 id="publications">📚 Publications</h2>
 
