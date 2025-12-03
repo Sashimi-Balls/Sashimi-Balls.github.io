@@ -104,13 +104,14 @@ I am Yushen Wang, a fourth-year undergraduate student majoring in *Communication
 - 📡 AI-empowered wireless communications: e.g., intelligent resource allocation
 
 <div style="display: flex; align-items: left;">
-<img src="../images/AI_wireless.png" alt="UESTC_banner" style="width: 70%;">
+	<img src="../images/AI_wireless.png" alt="UESTC_banner" style="width: 70%;">
+</div>
 
 - 🛰️ Integrated Sensing and Communications (ISAC): how to achieve mutual performance gains?
 
 <div style="display: flex; align-items: left;">
-<img src="../images/ISAC_scenario.png" alt="UESTC_banner" style="width: 70%;">
-
+	<img src="../images/ISAC_scenario.png" alt="UESTC_banner" style="width: 70%;">
+</div>
 
 <h2 id="publications">📚 Publications</h2>
 
