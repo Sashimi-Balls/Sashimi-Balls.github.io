@@ -5,7 +5,7 @@ type: "Journal"
 venue: "submitted to IEEE Trans. Wireless Commun."
 # vol: "15"
 # issue: "9807"
-pp: "1-13"
+# pp: "1-13"
 # location: "Denver, CO, USA"
 collection: publications
 category: manuscripts
