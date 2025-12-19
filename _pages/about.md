@@ -98,10 +98,11 @@ My current research focuses on **wireless sensing**. Feel free to contact me if 
 
 <h2 id="research-interests">🔬 Research Interests</h2>
 
+- 🛰️ ISAC: how to achieve mutual performance gains?
 
-- 🤖 Large Language Models: e.g., how to enhance their generalizability and robustness?
-
-- 📹 Image processing and video streaming: e.g., efficient and lossless video compression
+<div style="display: flex; align-items: left;">
+	<img src="../images/ISAC_scenario.png" alt="UESTC_banner" style="width: 70%;">
+</div>
 
 - 📡 AI-empowered wireless communications: e.g., intelligent resource allocation
 
@@ -109,11 +110,9 @@ My current research focuses on **wireless sensing**. Feel free to contact me if 
 	<img src="../images/AI_wireless.png" alt="UESTC_banner" style="width: 70%;">
 </div>
 
-- 🛰️ ISAC: how to achieve mutual performance gains?
+- 🤖 Large Language Models: e.g., how to enhance their generalizability and robustness?
 
-<div style="display: flex; align-items: left;">
-	<img src="../images/ISAC_scenario.png" alt="UESTC_banner" style="width: 70%;">
-</div>
+- 📹 Image processing and video streaming: e.g., efficient and lossless video compression
 
 
 <h2 id="publications">📚 Publications</h2>
