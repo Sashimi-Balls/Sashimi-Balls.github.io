@@ -227,7 +227,7 @@ Only list selected publications. <a href="/publications/">[Click here to see mor
 
 
 <h2 id="education">🎓 Education</h2>
-<div style="display: flex; align-items: left;">
+<div style="display: flex; align-items: flex-start;">
     <div style="flex: 1">
         <img src="../images/UESTC.png" alt="UESTC_banner" style="width: 140px;">
     </div>
@@ -240,9 +240,9 @@ Only list selected publications. <a href="/publications/">[Click here to see mor
     </div>
 </div>
 
-<br><br>
+<br>
 
-<div style="display: flex; align-items: left;">
+<div style="display: flex; align-items: flex-start;">
     <div style="flex: 1">
         <img src="../images/SJTU.png" alt="UESTC_banner" style="width: 150px;">
     </div>
