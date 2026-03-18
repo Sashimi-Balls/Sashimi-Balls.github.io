@@ -229,7 +229,7 @@ Only list selected publications. <a href="/publications/">[Click here to see mor
 <h2 id="education">🎓 Education</h2>
 <div style="display: flex; align-items: left;">
     <div style="flex: 1">
-        <img src="../images/UESTC.png" alt="UESTC_banner" style="width: 150px; height: auto;">
+        <img src="../images/UESTC.png" alt="UESTC_banner" style="width: 140px;">
     </div>
     <div style="flex: 2;">
         <p>University of Electronic Science and Technology of China</p>
@@ -244,7 +244,7 @@ Only list selected publications. <a href="/publications/">[Click here to see mor
 
 <div style="display: flex; align-items: left;">
     <div style="flex: 1">
-        <img src="../images/SJTU.png" alt="UESTC_banner" style="width: 150px; height: auto;">
+        <img src="../images/SJTU.png" alt="UESTC_banner" style="width: 150px;">
     </div>
     <div style="flex: 2;">
         <p>Shanghai Jiao Tong University</p>
