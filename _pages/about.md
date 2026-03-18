@@ -227,28 +227,27 @@ Only list selected publications. <a href="/publications/">[Click here to see mor
 
 
 <h2 id="education">🎓 Education</h2>
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1">
-        <img src="../images/UESTC.png" alt="UESTC_banner" style="width: 140px;">
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 28px;">
+    <div style="width: 170px; height: 90px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
+        <img src="../images/UESTC.png" alt="UESTC_banner" style="max-width: 140px; max-height: 80px;">
     </div>
-    <div style="flex: 2;">
-        <p>University of Electronic Science and Technology of China</p>
-        <ul>
+    <div style="flex: 1;">
+        <p style="margin: 0 0 8px 0;"><strong>University of Electronic Science and Technology of China</strong></p>
+        <ul style="margin: 0; padding-left: 20px;">
             <li>B.Eng. in Communication Engineering, Sept. 2022 - Jun. 2026 (expected)</li>
             <li>Supervisor: <a href="https://faculty.uestc.edu.cn/meiweidong/zh_CN/index.htm">Prof. Weidong Mei</a></li>
         </ul>
     </div>
 </div>
 
-<br>
-
-<div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1">
-        <img src="../images/SJTU.png" alt="UESTC_banner" style="width: 150px;">
+<div style="display: flex; align-items: flex-start; margin-top: 12px;">
+    <div style="width: 170px; height: 90px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
+        <img src="../images/SJTU.png" alt="UESTC_banner" style="max-width: 140px; max-height: 80px;">
     </div>
-    <div style="flex: 2;">
-        <p>Shanghai Jiao Tong University</p>
-        <ul>
+    <div style="flex: 1;">
+        <p style="margin: 0 0 8px 0;"><strong>Shanghai Jiao Tong University</strong></p>
+        <ul style="margin: 0; padding-left: 20px;">
             <li>M.Eng. in Information and Communication Engineering, Sept. 2026 - Jun. 2029 (expected)</li>
         </ul>
     </div>
