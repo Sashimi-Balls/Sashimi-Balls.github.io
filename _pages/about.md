@@ -243,7 +243,7 @@ Only list selected publications. <a href="/publications/">[Click here to see mor
 
 <div style="display: flex; align-items: flex-start; margin-top: 12px;">
     <div style="width: 170px; height: 90px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-        <img src="../images/SJTU.png" alt="UESTC_banner" style="max-width: 140px; max-height: 80px;">
+        <img src="../images/SJTU.png" alt="UESTC_banner" style="max-width: 155px; max-height: 85px;">
     </div>
     <div style="flex: 1;">
         <p style="margin: 0 0 8px 0;"><strong>Shanghai Jiao Tong University</strong></p>
