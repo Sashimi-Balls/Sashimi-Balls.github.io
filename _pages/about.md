@@ -240,3 +240,16 @@ Only list selected publications. <a href="/publications/">[Click here to see mor
     </div>
 </div>
 
+
+<div style="display: flex; align-items: left;">
+    <div style="flex: 1">
+        <img src="../images/SJTU.png" alt="UESTC_banner" style="width: 70%;">
+    </div>
+    <div style="flex: 2;">
+        <p>Shanghai Jiao Tong University</p>
+        <ul>
+            <li>M.Eng. in Information and Communication Engineering, Sept. 2026 - Jun. 2029 (expected)</li>
+        </ul>
+    </div>
+</div>
+
